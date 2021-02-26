@@ -51,9 +51,4 @@ if (entry==5):
     degtofar()
 
 
-#for the audio book use pip install pyttsx3 command type it in terminal
-import pyttsx3
 
-speaker = pyttsx3.init()
-speaker.say("hello akash donot go to school from january, corona will hunt you, hahaha hahahaha ha")
-speaker.runAndWait()
